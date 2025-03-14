@@ -1,0 +1,14 @@
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\NumericTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\NumericTicTacToe.AssemblyInfoInputs.cache
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\NumericTicTacToe.AssemblyInfo.cs
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\NumericTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\bin\Debug\net8.0\NumericTicTacToe.exe
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\bin\Debug\net8.0\NumericTicTacToe.deps.json
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\bin\Debug\net8.0\NumericTicTacToe.runtimeconfig.json
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\bin\Debug\net8.0\NumericTicTacToe.dll
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\bin\Debug\net8.0\NumericTicTacToe.pdb
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\NumericTicTacToe.dll
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\refint\NumericTicTacToe.dll
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\NumericTicTacToe.pdb
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\NumericTicTacToe.genruntimeconfig.cache
+C:\Users\keert\OneDrive\2024_c#\NumericTicTacToe\NumericTicTacToe\obj\Debug\net8.0\ref\NumericTicTacToe.dll

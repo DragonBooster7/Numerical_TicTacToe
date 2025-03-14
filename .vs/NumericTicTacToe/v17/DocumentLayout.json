@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\keert\\onedrive\\2024_c#\\numerictictactoe\\numerictictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\keert\\onedrive\\2024_c#\\numerictictactoe\\numerictictactoe\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\keert\\onedrive\\2024_c#\\numerictictactoe\\numerictictactoe\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\keert\\onedrive\\2024_c#\\numerictictactoe\\numerictictactoe\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\keert\\onedrive\\2024_c#\\numerictictactoe\\numerictictactoe\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backup.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\Backup.cs",
+              "RelativeDocumentMoniker": "NumericTicTacToe\\Backup.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\Backup.cs*",
+              "RelativeToolTip": "NumericTicTacToe\\Backup.cs*",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAI0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:11:17.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "NumericTicTacToe\\ComputerPlayer.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\ComputerPlayer.cs",
+              "RelativeToolTip": "NumericTicTacToe\\ComputerPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:37:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HumanPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\HumanPlayer.cs",
+              "RelativeDocumentMoniker": "NumericTicTacToe\\HumanPlayer.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\HumanPlayer.cs",
+              "RelativeToolTip": "NumericTicTacToe\\HumanPlayer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:37:00.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "NumericTicTacToe\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\Models\\Player.cs",
+              "RelativeToolTip": "NumericTicTacToe\\Models\\Player.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:35:39.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\Program.cs",
+              "RelativeDocumentMoniker": "NumericTicTacToe\\Program.cs",
+              "ToolTip": "C:\\Users\\keert\\OneDrive\\2024_c#\\NumericTicTacToe\\NumericTicTacToe\\Program.cs",
+              "RelativeToolTip": "NumericTicTacToe\\Program.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAcwPQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:56:47.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
